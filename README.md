@@ -11,8 +11,8 @@
 - 🛠️ Exploring **Open Source** & contributing small libraries  
 
 📫 **Reach Me**  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](#)  
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](#)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raja-gustav-akbar-hidayatullah-6b507b322/)  
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](rjagstvz28@gmail.com)
 
 ---
 
